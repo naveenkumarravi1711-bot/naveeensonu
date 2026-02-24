@@ -11,7 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Play button interaction (placeholder)
     const playBtn = document.querySelector('.play-btn');
-    if (playBtn) {
+    if (playBtn)
+        https://naveenkumarravi1711-bot.github.io/naveeensonu/
         playBtn.addEventListener('click', (e) => {
             e.preventDefault();
             alert('Play video feature coming soon!');
@@ -28,3 +29,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
